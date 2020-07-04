@@ -163,8 +163,7 @@ a {
 }
 
 a:hover {
-  color: #0056b3;
-  text-decoration: underline;
+  color: #fff;
 }
 
 a:not([href]) {
@@ -4254,9 +4253,10 @@ input[type="button"].btn-block {
   list-style: none;
 }
 
-.nav-link {
+.nav-link:hover {
   display: block;
   padding: 0.5rem 1rem;
+  color: #fff;
 }
 
 .nav-link:hover, .nav-link:focus {

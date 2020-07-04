@@ -63,6 +63,9 @@ body {
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
 }
+.nav-link:hover {
+  color: #fff;
+}
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
