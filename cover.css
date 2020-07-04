@@ -42,7 +42,7 @@ body {
 }
 
 .cover-container {
-  max-width: 80em;
+  max-width: 100em;
 }
 
 
@@ -62,7 +62,6 @@ body {
   font-weight: 200;
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
-  border-bottom: .25rem solid transparent;
 }
 
 .nav-masthead .nav-link:hover,

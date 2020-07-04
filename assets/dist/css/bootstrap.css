@@ -4368,7 +4368,7 @@ input[type="button"].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 30px;
+  font-size: 1.75rem;
   font-family: 'Raleway', 'NEXON Lv1 Gothic OTF Light';
   line-height: inherit;
   white-space: nowrap;
@@ -4716,11 +4716,9 @@ input[type="button"].btn-block {
   color: rgba(255, 255, 255, 0.25);
 }
 
-.navbar-dark .navbar-nav .show > .nav-link,
-.navbar-dark .navbar-nav .active > .nav-link,
-.navbar-dark .navbar-nav .nav-link.show,
-.navbar-dark .navbar-nav .nav-link.active {
-  color: #fff;
+a .nav-link:hover,
+a .nav-link:focus {
+  color:white;
 }
 
 .navbar-dark .navbar-toggler {
