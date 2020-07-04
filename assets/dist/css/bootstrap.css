@@ -4254,9 +4254,12 @@ input[type="button"].btn-block {
 }
 
 .nav-link:hover {
+  color: #fff;
+}
+
+.nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #fff;
 }
 
 .nav-link:hover, .nav-link:focus {
